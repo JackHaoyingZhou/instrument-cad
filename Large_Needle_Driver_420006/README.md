@@ -6,7 +6,9 @@
 
 ## The Instrument in Real Life
 
-`<Images>`
+<p align="center">
+<img src="README_media/LND420006.jpeg"  width="800"/>
+</p>
 
 ## Assembly
 
